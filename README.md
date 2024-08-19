@@ -102,14 +102,25 @@ ai_brain.predict(n1_1)
 
 ## Dataset Information
 
+![Screenshot 2024-08-19 124400](https://github.com/user-attachments/assets/163d2f78-f96d-4867-ad04-75fb0fac5438)
 
 
 ## OUTPUT
 
 ## Training Loss Vs Iteration Plot
 
+![Screenshot 2024-08-19 124844](https://github.com/user-attachments/assets/eb2e4379-fa76-40e8-9535-9af9926f1449)
+
+## Test Data Root Mean Squared Error
+
+![Screenshot 2024-08-19 124943](https://github.com/user-attachments/assets/3044b8f1-5af9-4615-8d94-7c9c69830bc1)
+
+
+## New Sample Data Prediction
+
+![Screenshot 2024-08-19 125023](https://github.com/user-attachments/assets/ccf98b96-8910-4792-9dbc-6c539a3019bf)
 
 
 ## RESULT
 
-Include your result here
+Thus a Neural network for Regression model is Implemented
